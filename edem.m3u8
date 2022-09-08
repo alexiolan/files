@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg2.xml.gz"
 #EXTINF:0 tvg-rec="7",Первый FHD
 #EXTGRP:Общие
 http://iptvr.kazaktelekom.com/iptv/GN72CSHTF4MBFG/2402/index.m3u8
