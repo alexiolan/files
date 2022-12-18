@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml"
 #EXTINF:0 group-title="Общие" tvg-id="7286" tvg-logo="http://epg.it999.ru/img/7286.png" tvg-rec="0",НТВ Мир
 http://iptvr.kazaktelekom.com/iptv/GN72CSHTF4MBFG/14035/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал FHD
